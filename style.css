@@ -99,8 +99,8 @@ i:hover {
     border-radius: 17px;
     top: -20px;
     text-align: center;
-    background-color: rgb(253, 176, 10);
-    color: rgb(22, 22, 22);
+    background-color: burlywood;
+    color: bisque;
     cursor: pointer;
     opacity: 0;
 }
@@ -176,7 +176,7 @@ main {
 .price {
     font-size: 18px;
     font-weight: bold;
-    color: rgb(104, 133, 54);
+    color: darkolivegreen;
 }
 .param-full {
     font-size: 15px;
@@ -261,7 +261,7 @@ button {
 }
 
 button.add {
-    background: rgb(108, 151, 40);
+    background: rgb(91, 141, 11);
 }
 
 button:hover {
@@ -306,32 +306,32 @@ button:hover {
 @keyframes first {
     to {
         transform: scale(0.08);
-        top: -280px;
-        left: 1250px;
+        top: -305px;
+        left: 925px;
     }
 }
 
 @keyframes second {
     to {
         transform: scale(0.08);
-        top: -290px;
-        left: 840px;
+        top: -305px;
+        left: 605px;
     }
 }
 
 @keyframes third {
     to {
         transform: scale(0.08);
-        top: -290px;
-        left: 450px;
+        top: -305px;
+        left: 277px;
     }
 }
 
 @keyframes four {
     to {
         transform: scale(0.08);
-        top: -290px;
-        left: 20px;
+        top: -305px;
+        left: -45px;
     }
 }
 
